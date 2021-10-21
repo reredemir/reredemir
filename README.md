@@ -50,15 +50,5 @@
 <br>
 <br>
 
-<div align='center'>
-<img src="https://github.com/reredemir/reredemir/blob/main/img/test-junior-react-node.jpg" />
-</div>
-<br>
-<div align='center'>
-<img src="https://github.com/reredemir/reredemir/blob/main/img/test-junior-js.jpg" />
-</div>
-<br>
-<br>
-<div align='center'>
 <em>Special thanks to <a href="https://github.com/TheoBIET">Théo BIET</a> and <a href="https://github.com/NicolasBrondin">Nicolas BRONDIN</a> who inspired and helped me for this GitHub profile presentation.</em>
 </div>
