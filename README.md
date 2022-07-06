@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/remidemir/">
         <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedIn&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-    </a>&nbsp;&nbsp;
     <a href="https://discord.gg/TjPnPTN5X8">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>&nbsp;&nbsp;
